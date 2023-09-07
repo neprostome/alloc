@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	1684237730080162438	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4716b7c8e28e67fa
+1574	1584	1684238094718368753	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	22cee3644536aa18
+0	10	1684237730080162438	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	4716b7c8e28e67fa
+1616	1628	1684238094762108380	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1a8997d9e4fab7b1
+1595	1605	1684238094739092361	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	cc78614ac965320b
+1564	1574	1684238094708394781	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	22d89fbdc859d10d
+1595	1605	1684238094739092361	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	cc78614ac965320b
+0	1564	1684238094697533645	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9bbb6a75349054fc
+1564	1574	1684238094708394781	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	22d89fbdc859d10d
+1628	1643	1684238094776970797	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	672628fb07167356
+1605	1615	1684238094749412457	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c144c7b121b4743c
+1628	1643	1684238094776970797	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	672628fb07167356
+0	1564	1684238094697533645	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9bbb6a75349054fc
+1584	1595	1684238094728928223	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d304893e8d974248
+1584	1595	1684238094728928223	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d304893e8d974248
+1574	1584	1684238094718368753	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	22cee3644536aa18
+1605	1615	1684238094749412457	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	c144c7b121b4743c
+1628	1643	1684238094776970797	CMakeFiles/googletest-populate-complete	672628fb07167356
+1616	1628	1684238094762108380	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1a8997d9e4fab7b1
+1628	1643	1684238094776970797	/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	672628fb07167356

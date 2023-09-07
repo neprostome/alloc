@@ -1,0 +1,153 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cmake-build-release/_deps/benchmark-src/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 103,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 108,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 112,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 121,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/benchmark-build/src/libbenchmark.a"
+			],
+			"targetId" : "benchmark::@2fa91c1ea4e05cbc4511",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/benchmark-build/src/libbenchmark_main.a"
+			],
+			"targetId" : "benchmark_main::@2fa91c1ea4e05cbc4511",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"cmake-build-release/_deps/benchmark-src/include/benchmark"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/benchmark",
+			"paths" : 
+			[
+				"cmake-build-release/_deps/benchmark-build/src/generated/benchmarkConfig.cmake",
+				"cmake-build-release/_deps/benchmark-build/src/generated/benchmarkConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-release/_deps/benchmark-build/src/generated/benchmark.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/benchmark",
+			"exportName" : "benchmarkTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "benchmark::@2fa91c1ea4e05cbc4511",
+					"index" : 4
+				},
+				{
+					"id" : "benchmark_main::@2fa91c1ea4e05cbc4511",
+					"index" : 6
+				}
+			],
+			"paths" : 
+			[
+				"_deps/benchmark-build/src/CMakeFiles/Export/d56d27b88fbb159d81f220d5e4f5f598/benchmarkTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/share/doc/benchmark",
+			"paths" : 
+			[
+				{
+					"from" : "cmake-build-release/_deps/benchmark-src/docs",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/benchmark-build/src",
+		"source" : "cmake-build-release/_deps/benchmark-src/src"
+	}
+}

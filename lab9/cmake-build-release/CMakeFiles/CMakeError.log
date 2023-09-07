@@ -1,0 +1,14 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-frcjHc
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_03960 && [1/2] Building CXX object CMakeFiles/cmTC_03960.dir/src.cxx.o
+[31mFAILED: [0mCMakeFiles/cmTC_03960.dir/src.cxx.o 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -wd654 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk   -wd654 -MD -MT CMakeFiles/cmTC_03960.dir/src.cxx.o -MF CMakeFiles/cmTC_03960.dir/src.cxx.o.d -o CMakeFiles/cmTC_03960.dir/src.cxx.o -c /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-frcjHc/src.cxx
+clang: error: unknown argument: '-wd654'
+clang: error: unknown argument: '-wd654'
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+int main() { return 0; }
+

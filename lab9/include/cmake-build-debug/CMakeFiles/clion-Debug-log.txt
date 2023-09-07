@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/include -B /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/include/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.3.14030022
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: include
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

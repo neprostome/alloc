@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab9/benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab9/build/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab9/cmake-build-debug/_deps/benchmark-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab9/cmake-build-release/_deps/benchmark-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab9/googletest" vcs="Git" />
+  </component>
+</project>

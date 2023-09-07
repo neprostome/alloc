@@ -1,0 +1,25 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9 -B /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-debug
+CMake Warning (dev) at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FetchContent.cmake:1284 (message):
+  The DOWNLOAD_EXTRACT_TIMESTAMP option was not given and policy CMP0135 is
+  not set.  The policy's OLD behavior will be used.  When using a URL
+  download, the timestamps of extracted files should preferably be that of
+  the time of extraction, otherwise code that depends on the extracted
+  contents might not be rebuilt if the URL changes.  The OLD behavior
+  preserves the timestamps from the archive instead, but this is usually not
+  what you want.  Update your project to the NEW behavior or specify the
+  DOWNLOAD_EXTRACT_TIMESTAMP option with a value of true to avoid this
+  robustness issue.
+Call Stack (most recent call first):
+  tests/CMakeLists.txt:3 (FetchContent_Declare)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- git version: v1.6.0 normalized to 1.6.0
+-- Version: 1.6.0
+-- Performing Test HAVE_THREAD_SAFETY_ATTRIBUTES -- failed to compile
+-- Performing Test HAVE_STD_REGEX -- success
+-- Performing Test HAVE_GNU_POSIX_REGEX -- failed to compile
+-- Performing Test HAVE_POSIX_REGEX -- success
+-- Performing Test HAVE_STEADY_CLOCK -- success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-debug

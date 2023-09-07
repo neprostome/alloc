@@ -1,0 +1,5 @@
+if(EXISTS "/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-release/tests/allocator_tests[1]_tests.cmake")
+  include("/Users/denisbondarenko/Library/CloudStorage/OneDrive-ITMOUNIVERSITY/2sem/Prog/lab9/cmake-build-release/tests/allocator_tests[1]_tests.cmake")
+else()
+  add_test(allocator_tests_NOT_BUILT allocator_tests_NOT_BUILT)
+endif()
